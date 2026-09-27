@@ -2,6 +2,8 @@
 
 本页供同学核对小组、仓库地址和访问权限。
 
+本次作业要求： 每组建立公开可访问的小组仓库，仓库所有者须为 Organization；组长登记仓库主页 URL，确保组长和表中所有组员加入组织，并确认每位组员有权限创建分支和发起 PR。
+
 评分核查日期：2026-10-3。
 
 **✓**＝已有证据满足该项；**×**＝已有证据不满足；
@@ -13,7 +15,7 @@
 - “对应成员”核对表中每人数量是否和组织内一致。
 
 
-**更正方法：** 到[教师统一入口的 Issue 页面](https://github.com/YOUR_ACCOUNT/git-course/issues/new/choose)选择“分组或仓库链接更正”，填组号、原 URL、正确的**仓库主页 URL**和更正理由。组长应先在自己的仓库检查每位组员是否有权限创建分支和 PR。教师核实后更新本页。
+**更正方法：** 到[教师统一入口的 Issue 页面]([https://github.com/YOUR_ACCOUNT/git-course/issues/new/choose](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues))选择“00-group label”，填组号、原 URL、正确的**仓库主页 URL**和更正理由。组长应先在自己的仓库检查每位组员是否有权限创建分支和 PR。教师核实后更新本页。
 
 ## 当前分组
 

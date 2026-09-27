@@ -10,12 +10,12 @@
 
 - “URL 公开有效”专指链接可直接进入公开可访问页面。
 
-- “组织形式”核对仓库所有者是否为 Organization；
+- “组织形式”核对仓库所有者是否为 Organization。
 
 - “对应成员”核对表中每人数量是否和组织内一致。
 
 
-**更正方法：** 到[教师统一入口的 Issue 页面]([https://github.com/YOUR_ACCOUNT/git-course/issues/new/choose](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues))选择“00-group label”，填组号、原 URL、正确的**仓库主页 URL**和更正理由。[本次issue示例](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1).组长应先在自己的仓库检查每位组员是否有权限创建分支和 PR。教师核实后更新本页。
+**更正方法：** 到[教师统一入口的 Issue 页面]([https://github.com/YOUR_ACCOUNT/git-course/issues/new/choose](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues))选择“00-group label”，填组号、原 URL、正确的**仓库主页 URL**和更正理由。[本次issue示例](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1)。组长应先在自己的仓库检查每位组员是否有权限创建分支和 PR。教师核实后更新本页。
 
 ## 当前分组
 

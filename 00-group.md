@@ -47,6 +47,7 @@
 | 26 | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) |   |   |   |   |
 | 27 | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyMax1173/System-Analysis.git) |   |   |   |   |
 | 28 | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/orgs/OpenSourceLearning2)  |   |   |   |   |
+| 99 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1) | 老师测试组长 | 组员1 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026) | |   |   |   |
 
 ## 必须先改的 URL 类别
 

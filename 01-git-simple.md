@@ -128,7 +128,7 @@ cat members/alice/README.md
 
 ## 四、到教师统一入口交链接
 
-打开[教师仓库 Issue 提交页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)，选择本次 Git 作业对应的表单。**每组提交一条作业 Issue**，填写组号、本组章节仓库 URL、小组成员对应账号。参考示例 [本次issue示例](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/2)，注意携带正确label
+打开[教师仓库 Issue 提交页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)，选择本次 Git 作业对应的表单。**每组提交一条作业 Issue**，填写组号、本组章节仓库 URL、小组成员对应账号、小组成员对应PR地址。参考示例 [本次issue示例](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/2)，注意携带正确label
 
 不要在公开 Issue 填写敏感信息。有异议请在该 Issue 留言复核。
 
@@ -191,9 +191,9 @@ cat members/alice/README.md
 #### 第 99 组
 
 | 组员姓名 | 平台账号 | 地址：本人 PR / 作业 Issue | 个人分（85） |
-| --- | --- | --- | :---: | --- |
-| chenwuyang | [audio-visual](https://github.com/audio-visual) | [PR地址](https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/1) | 85 |
-| ruokuanwu| [ruokuanwu](https://github.com/ruokuanwu) | PR：待提交 | 55 |
+| --- | --- | --- | ---  | 
+| chenwuyang | [audio-visual](https://github.com/audio-visual) | [https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/1](https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/1) | 85 |
+| ruokuanwu| [ruokuanwu](https://github.com/ruokuanwu) |[https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/2](https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/2) | 55 |
 
 
 

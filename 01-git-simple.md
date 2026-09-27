@@ -8,6 +8,8 @@
 
 **✓**＝已有证据满足该项；**×**＝已有证据不满足。
 
+**仓库示意** [git-simple](https://github.com/hunnuOpenSourceSoftware2026/git-simple)
+
 **更正方法：** 到[教师统一入口的 Issue 页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)提交更正。issue样例参考：
 ## 零、课堂内前置实验
 

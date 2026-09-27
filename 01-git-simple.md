@@ -8,9 +8,10 @@
 
 **✓**＝已有证据满足该项；**×**＝已有证据不满足。
 
-**仓库示意** [git-simple](https://github.com/hunnuOpenSourceSoftware2026/git-simple)
+**作业仓库示意** [git-simple](https://github.com/hunnuOpenSourceSoftware2026/git-simple)
 
-**更正方法：** 到[教师统一入口的 Issue 页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)提交更正。issue样例参考：
+**更正方法：** 到[教师统一入口的 Issue 页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)提交更正。携带01-git-simple label
+
 ## 零、课堂内前置实验
 
 每位同学自己在终端完成以下步骤。`alice` 和邮箱只是示例，请换成自己使用的别名和平台已验证邮箱；`git config` 在当前仓库中设置，不要求全局配置。已经完成的同学检查 `~/git-course-simple/local-practice/notes.md` 与 `plan.md` 是否存在，向教师展示操作记录即可，无须重复覆盖原笔记。
@@ -127,7 +128,7 @@ cat members/alice/README.md
 
 ## 四、到教师统一入口交链接
 
-打开[教师仓库 Issue 提交页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)，选择本次 Git 作业对应的表单。**每组提交一条作业 Issue**，填写组号、本组章节仓库 URL、 小组成员对应账号。参考示例：
+打开[教师仓库 Issue 提交页面](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/new/choose)，选择本次 Git 作业对应的表单。**每组提交一条作业 Issue**，填写组号、本组章节仓库 URL、小组成员对应账号。参考示例：
 
 不要在公开 Issue 填写敏感信息。有异议请在该 Issue 留言复核。
 
@@ -151,7 +152,7 @@ cat members/alice/README.md
 下表是登记与公示的**待填模板**，`—` 表示尚未收到或尚未核验，不代表零分。
 ### 第一层：小组与章节仓库
 
-| 组号 | 当前组织地址（待核时以 00-group 为准） | 本次章节仓库 URL | 小组分（5） |
+| 组号 | 当前组织地址（待核时以 00-group 为准） | 本次章节仓库 URL | 小组分（15） |
 | ---: | --- | --- | :---: |
 | 1 | [https://gitee.com/pinhaodui](https://gitee.com/pinhaodui) | 待登记 | — |
 | 2 | 待更正（现登记为个人账号） | 待登记 | — |

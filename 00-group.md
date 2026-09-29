@@ -28,16 +28,16 @@
 | 5 | 王晨 | 潘雷、卢攀、唐羽、杨博文 | [打开链接](https://github.com/ChaPro657/ok666) | ✓ | ×  | ×  |  |
 | 6 | 杜勇毅 | 朱家豪、周家浩、刘子瑜 | [打开链接](https://github.com/maplen1ght/forstudy) |  ✓ | ×  | ×  |  |
 | 7 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/14) | 解欣玥 | 谌思雨、梁誉允、曹洁 | [打开链接](https://github.com/SAD-OpenLab/) |   ✓ |  ✓  | ✓ |   |
-| 8 | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/NXZZYUAN/sys-analysis-design.git) |   |   |   |   |
-| 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) |   |   |   |   |
-| 10 | 陈宇斌 | 曾志强、刘畅、陈励、杨斯惠 | [打开链接](https://github.com/aaa-course-project/course-project) |   |   |   |   |
-| 11 | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/macy1124/System-team)  |   |   |   |   |
+| 8 | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/NXZZYUAN/sys-analysis-design.git) |  ✓ | ×  | ×  |  |
+| 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  |  |
+| 10 | 陈宇斌 | 曾志强、刘畅、陈励、杨斯惠 | [打开链接](https://github.com/aaa-course-project/course-project) |  ✓ | ×  | ×  |  |
+| 11 | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/macy1124/System-team)  |  × | ×  | ×  |   |
 | 12 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/8) | 杨欣华 | 于傲然、钟萱 | [打开链接](https://github.com/softh-dev/) |  ✓ |  ✓   | ×  |   |
-| 13 | 肖璟媛 | 国梓濛、曾紫婷、曹紫欣 | [打开链接](https://github.com/organizations/Wolf-F4)  |   |   |   |   |
-| 14 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/4) | 谷凤頔 | 占航溢、李韵怡、奉静怡 | [打开链接](https://github.com/open-source-slackers) |   |   |   |   |
-| 15 | 金巳龙 | 王元沁、邹颜怿 | [打开链接](https://github.com/fishplasma) |   |   |   |   |
-| 16 | 占竞 | 陈灵湘、黄雨婷、汤佳琪 | [打开链接](https://github.com/Learning-Rate-LR)  |   |   |   |   |
-| 17 | 张佳琦 | 罗进、冉鹏洲 | [打开链接](https://github.com/System-Analysis-Homework)  |   |   |   |   |
+| 13 | 肖璟媛 | 国梓濛、曾紫婷、曹紫欣 | [打开链接](https://github.com/organizations/Wolf-F4)  |   × | ×  | ×    |   |
+| 14 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/4) | 谷凤頔 | 占航溢、李韵怡、奉静怡 | [打开链接](https://github.com/open-source-slackers) |    ✓ |  ✓   | ×  |   |
+| 15 | 金巳龙 | 王元沁、邹颜怿 | [打开链接](https://github.com/fishplasma) | ✓  |  ✓ | ✓  |   |
+| 16 | 占竞 | 陈灵湘、黄雨婷、汤佳琪 | [打开链接](https://github.com/Learning-Rate-LR)  |  ✓ | ✓  | ×  |   |
+| 17 | 张佳琦 | 罗进、冉鹏洲 | [打开链接](https://github.com/System-Analysis-Homework)  |  ✓ | ✓  | ×  |   |
 | 18 | 付悰安 | 李艺淼、洪嘉伟 | [打开链接](https://github.com/Team-Kawhi)  |  ✓  |  ✓ |  × |   |
 | 19 | 周怡君 | 秦钰欣、陈柄竹 | [打开链接](https://github.com/star091221)  | ✓  |  ✓ |  × |   |
 | 20 | 袁诗文 | 龚健、王陈业 | [打开链接](https://github.com/shizishizi111/systemana)  |  ×   |  ×   |  ×   |   |

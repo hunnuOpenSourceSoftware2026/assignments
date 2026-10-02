@@ -32,7 +32,7 @@
 | 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  |  |
 | 10 | 陈宇斌 | 曾志强、刘畅、陈励、杨斯惠 | [打开链接](https://github.com/aaa-course-project/course-project) |  ✓ | ×  | ×  |  |
 | 11[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/23) | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/Systemteam-alwayswin)  |  ✓ |✓  | ×  |   |
-| 12 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/8) | 杨欣华 | 于傲然、钟萱 | [打开链接](https://github.com/softh-dev/) |  ✓ |  ✓   | ×  |   |
+| 12 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/8) | 杨欣华 | 于傲然、钟萱 | [打开链接](https://github.com/softh-dev/) |  ✓ |  ✓   |✓  |   |
 | 13 | 肖璟媛 | 国梓濛、曾紫婷、曹紫欣 | [打开链接](https://github.com/organizations/Wolf-F4)  |   × | ×  | ×    |   |
 | 14 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/4) | 谷凤頔 | 占航溢、李韵怡、奉静怡 | [打开链接](https://github.com/open-source-slackers) |    ✓ |  ✓   | ✓  |   |
 | 15 | 金巳龙 | 王元沁、邹颜怿 | [打开链接](https://github.com/fishplasma) | ✓  |  ✓ | ✓  |   |

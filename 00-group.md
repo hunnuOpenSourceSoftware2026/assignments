@@ -22,7 +22,7 @@
 | 组号 | 组长 | 组员 | 当前登记 URL | URL 公开有效 | 组织形式 | 对应成员数量与账号 | 分数（10-3） | 
 | ---: | --- | --- | --- | :---: | :---: | :---: | --- |
 | 1 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/11) | 刘文嘉 | 王子端、刘莹、刘浩霖 | [打开链接](https://gitee.com/pinhaodui) | ✓ |  ✓ | ✓  |  100 |
-| 2 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/9) | 陈光彩 | 祝彬涵、夏添来 | [打开链接](https://github.com/chencai11) | ✓ |  ✓ | × |   |
+| 2 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/9) | 陈光彩 | 祝彬涵、夏添来 | [打开链接](https://github.com/chencai11) | ✓ |  ✓ | ✓ | 100  |
 | 3 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/10) | 陈智杰 | 廖博涵、欧建、王栋新、喻权 | [打开链接](https://gitee.com/sad-open-sourse-learing) | ✓ | ✓ | ✓ |100  |
 | 4 | 黄文佐 | 李佳妮、许俊、王铭伟、李知润 | [打开链接](https://github.com/wzryqidong-2026/yuanshen.git) | ✓ | ×  | ×  |  |
 | 5 | 王晨 | 潘雷、卢攀、唐羽、杨博文 | [打开链接](https://github.com/ChaPro657/ok666) | ✓ | ×  | ×  |  |

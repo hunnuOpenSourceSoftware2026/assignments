@@ -31,7 +31,7 @@
 | 8 | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/NXZZYUAN/sys-analysis-design.git) |  ✓ | ×  | ×  |  |
 | 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  |  |
 | 10 | 陈宇斌 | 曾志强、刘畅、陈励、杨斯惠 | [打开链接](https://github.com/aaa-course-project/course-project) |  ✓ | ×  | ×  |  |
-| 11 | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/macy1124/System-team)  |  × | ×  | ×  |   |
+| 11[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/23) | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/Systemteam-alwayswin)  |  ✓ |✓  | ×  |   |
 | 12 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/8) | 杨欣华 | 于傲然、钟萱 | [打开链接](https://github.com/softh-dev/) |  ✓ |  ✓   | ×  |   |
 | 13 | 肖璟媛 | 国梓濛、曾紫婷、曹紫欣 | [打开链接](https://github.com/organizations/Wolf-F4)  |   × | ×  | ×    |   |
 | 14 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/4) | 谷凤頔 | 占航溢、李韵怡、奉静怡 | [打开链接](https://github.com/open-source-slackers) |    ✓ |  ✓   | ✓  |   |
@@ -40,7 +40,7 @@
 | 17 | 张佳琦 | 罗进、冉鹏洲 | [打开链接](https://github.com/System-Analysis-Homework)  |  ✓ | ✓  | ×  |   |
 | 18 | 付悰安 | 李艺淼、洪嘉伟 | [打开链接](https://github.com/Team-Kawhi)  |  ✓  |  ✓ |  × |   |
 | 19 | 周怡君 | 秦钰欣、陈柄竹 | [打开链接](https://github.com/star091221)  | ✓  |  ✓ |  × |   |
-| 20 | 袁诗文 | 龚健、王陈业 | [打开链接](https://github.com/shizishizi111/systemana)  |  ×   |  ×   |  ×   |   |
+| 20[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/22) | 袁诗文 | 龚健、王陈业 | [打开链接](https://github.com/shizishizi111)  |  ✓  |  ✓   |  ×   |   |
 | 21[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/25) | 刘洋 | 代嘉恒、潘长寿、黄家聪、杨唐清 | [打开链接](https://github.com/nai-lon-g) |   ✓ |   ✓ |   × |   |
 | 22 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/13) | 张涛 | 刘尚昆、张玟涛、瞿凯峰 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026Group001) |  ✓ |  ✓   | ×  |   |
 | 23 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/7) | 刘舒畅 | 肖楚惟、何梦楠、邓珊、周姝奕 | [打开链接](https://github.com/liushuchang1) | ✓  |  ✓ | ×  |   |
@@ -48,7 +48,7 @@
 | 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   | ×|   |
 | 26 | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) | ✓ |   ✓ |   ×  |   |
 | 27 | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyMax1173/System-Analysis.git) |  ✓ |   × |   × |   |
-| 28 | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/orgs/OpenSourceLearning2)  |   ✓ |   ✓ |   × |   |
+| 28[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/24) | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/SoftwareGrp28)  |   ✓ |   ✓ |   × |   |
 | 99 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1) | 老师测试组长 | 组员1 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026) | |   |   |   |
 
 ## 必须先改的 URL 类别

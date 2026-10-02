@@ -26,7 +26,7 @@
 | 3 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/10) | 陈智杰 | 廖博涵、欧建、王栋新、喻权 | [打开链接](https://gitee.com/sad-open-sourse-learing) | ✓ | ✓ | ✓ |  |
 | 4 | 黄文佐 | 李佳妮、许俊、王铭伟、李知润 | [打开链接](https://github.com/wzryqidong-2026/yuanshen.git) | ✓ | ×  | ×  |  |
 | 5 | 王晨 | 潘雷、卢攀、唐羽、杨博文 | [打开链接](https://github.com/ChaPro657/ok666) | ✓ | ×  | ×  |  |
-| 6[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/28) | 杜勇毅 | 朱家豪、周家浩、刘子瑜 | [打开链接](https://github.com/maplen1ght/forstudy) |  ✓ |  ✓  |  ✓  |  |
+| 6[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/28) | 杜勇毅 | 朱家豪、周家浩、刘子瑜 | [打开链接](https://github.com/astudytissue) |  ✓ |  ✓  |  ✓  |  |
 | 7 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/14) | 解欣玥 | 谌思雨、梁誉允、曹洁 | [打开链接](https://github.com/SAD-OpenLab/) |   ✓ |  ✓  | ✓ |   |
 | 8 | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/NXZZYUAN/sys-analysis-design.git) |  ✓ | ×  | ×  |  |
 | 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  |  |

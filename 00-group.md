@@ -45,7 +45,7 @@
 | 22 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/13) | 张涛 | 刘尚昆、张玟涛、瞿凯峰 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026Group001) |  ✓ |  ✓   | ×  |   |
 | 23 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/7) | 刘舒畅 | 肖楚惟、何梦楠、邓珊、周姝奕 | [打开链接](https://github.com/liushuchang1) | ✓  |  ✓ | ×  |   |
 | 24 | 张家尧 | 阳凌杰、周丽、郭夏琪 | [打开链接](https://github.com/superheror)  |  ✓ |  ✓   | ×|    |
-| 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   | ×|   |
+| 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   |  ✓|   |
 | 26 | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) | ✓ |   ✓ |   ×  |   |
 | 27 | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyMax1173/System-Analysis.git) |  ✓ |   × |   × |   |
 | 28[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/24) | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/SoftwareGrp28)  |   ✓ |   ✓ |   × |   |

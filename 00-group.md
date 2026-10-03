@@ -47,7 +47,7 @@
 | 24[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/31) | 张家尧 | 阳凌杰、周丽、郭夏琪 | [打开链接](https://github.com/superheror)  |  ✓ |  ✓   | ✓| 100   |
 | 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   |  ✓|  100 |
 | 26[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/27) | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) | ✓ |   ✓ |   ✓  |   100|
-| 27[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/40) | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyOS-i)|  ✓ |   ✓ |   × |  93(成员均不可见) |
+| 27[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/40) | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyOS-i)|  ✓ |   ✓ |   × |  95(成员均不可见) |
 | 28[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/24) | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/SoftwareGrp28)  |   ✓ |   ✓ |   ✓ | 100  |
 | 99 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1) | 老师测试组长 | 组员1 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026) | |   |   |   |
 

@@ -37,8 +37,8 @@
 | 14 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/4) | 谷凤頔 | 占航溢、李韵怡、奉静怡 | [打开链接](https://github.com/open-source-slackers) |    ✓ |  ✓   | ✓  | 100  |
 | 15 | 金巳龙 | 王元沁、邹颜怿 | [打开链接](https://github.com/fishplasma) | ✓  |  ✓ | ✓  | 100  |
 | 16 | 占竞 | 陈灵湘、黄雨婷、汤佳琪 | [打开链接](https://github.com/Learning-Rate-LR)  |  ✓ | ✓  | ✓  | 100  |
-| 17 | 张佳琦 | 罗进、冉鹏洲 | [打开链接](https://github.com/System-Analysis-Homework)  |  ✓ | ✓  | ×  |   |
-| 18 | 付悰安 | 李艺淼、洪嘉伟 | [打开链接](https://github.com/Team-Kawhi)  |  ✓  |  ✓ |  × |   |
+| 17 | 张佳琦 | 罗进、冉鹏洲 | [打开链接](https://github.com/System-Analysis-Homework)  |  ✓ | ✓  |✓  | 100  |
+| 18 | 付悰安 | 李艺淼、洪嘉伟 | [打开链接](https://github.com/Team-Kawhi)  |  ✓  |  ✓ |  ✓ |100   |
 | 19[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/37) | 周怡君 | 秦钰欣、陈柄竹 | [打开链接](https://github.com/star091221) | ✓  |  ✓ |  ✓ |  100 |
 | 20[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/22) | 袁诗文 | 龚健、王陈业 | [打开链接](https://github.com/shizishizi111)  |  ✓  |  ✓   |  ✓  | 100  |
 | 21[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/25) | 刘洋 | 代嘉恒、潘长寿、黄家聪、杨唐清 | [打开链接](https://github.com/nai-lon-g) |   ✓ |   ✓ |   × |   |

@@ -43,7 +43,7 @@
 | 20[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/22) | 袁诗文 | 龚健、王陈业 | [打开链接](https://github.com/shizishizi111)  |  ✓  |  ✓   |  ✓  | 100  |
 | 21[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/25) | 刘洋 | 代嘉恒、潘长寿、黄家聪、杨唐清 | [打开链接](https://github.com/nai-lon-g) |   ✓ |   ✓ |   × |   |
 | 22 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/13) | 张涛 | 刘尚昆、张玟涛、瞿凯峰 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026Group001) |  ✓ |  ✓   |  ✓  |  100 |
-| 23 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/7) | 刘舒畅 | 肖楚惟、何梦楠、邓珊、周姝奕 | [打开链接](https://github.com/liushuchang1) | ✓  |  ✓ | ×  |   |
+| 23 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/7) | 刘舒畅 | 肖楚惟、何梦楠、邓珊、周姝奕 | [打开链接](https://github.com/liushuchang1) | ✓  |  ✓ |  ✓  | 100  |
 | 24[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/31) | 张家尧 | 阳凌杰、周丽、郭夏琪 | [打开链接](https://github.com/superheror)  |  ✓ |  ✓   | ✓| 100   |
 | 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   |  ✓|  100 |
 | 26[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/27) | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) | ✓ |   ✓ |   ✓  |   100|

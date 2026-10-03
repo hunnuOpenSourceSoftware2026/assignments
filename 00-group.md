@@ -24,7 +24,7 @@
 | 1 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/11) | 刘文嘉 | 王子端、刘莹、刘浩霖 | [打开链接](https://gitee.com/pinhaodui) | ✓ |  ✓ | ✓  |  100 |
 | 2 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/9) | 陈光彩 | 祝彬涵、夏添来 | [打开链接](https://github.com/chencai11) | ✓ |  ✓ | ✓ | 100  |
 | 3 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/10) | 陈智杰 | 廖博涵、欧建、王栋新、喻权 | [打开链接](https://gitee.com/sad-open-sourse-learing) | ✓ | ✓ | ✓ |100  |
-| 4 | 黄文佐 | 李佳妮、许俊、王铭伟、李知润 | [打开链接](https://github.com/wzryqidong-2026/yuanshen.git) | ✓ | ×  | ×  |  |
+| 4[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/38) | 黄文佐 | 李佳妮、许俊、王铭伟、李知润 | [打开链接](https://github.com/wzryqidong666) | ✓ | ✓  | ✓  | 100 |
 | 5[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/42) | 王晨 | 潘雷、卢攀、唐羽、杨博文 | [打开链接](https://github.com/applerere) | ✓ | ✓  | ✓  | 100 |
 | 6[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/28) | 杜勇毅 | 朱家豪、周家浩、刘子瑜 | [打开链接](https://github.com/astudytissue) |  ✓ |  ✓  |  ✓  | 100 |
 | 7 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/14) | 解欣玥 | 谌思雨、梁誉允、曹洁 | [打开链接](https://github.com/SAD-OpenLab/) |   ✓ |  ✓  | ✓ |  100 |

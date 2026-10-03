@@ -41,13 +41,13 @@
 | 18 | 付悰安 | 李艺淼、洪嘉伟 | [打开链接](https://github.com/Team-Kawhi)  |  ✓  |  ✓ |  ✓ |100   |
 | 19[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/37) | 周怡君 | 秦钰欣、陈柄竹 | [打开链接](https://github.com/star091221) | ✓  |  ✓ |  ✓ |  100 |
 | 20[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/22) | 袁诗文 | 龚健、王陈业 | [打开链接](https://github.com/shizishizi111)  |  ✓  |  ✓   |  ✓  | 100  |
-| 21[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/25) | 刘洋 | 代嘉恒、潘长寿、黄家聪、杨唐清 | [打开链接](https://github.com/nai-lon-g) |   ✓ |   ✓ |   × |   |
+| 21[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/25) | 刘洋 | 代嘉恒、潘长寿、黄家聪、杨唐清 | [打开链接](https://github.com/nai-lon-g) |   ✓ |   ✓ |   × | 97(成员未能全部public可见)   |
 | 22 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/13) | 张涛 | 刘尚昆、张玟涛、瞿凯峰 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026Group001) |  ✓ |  ✓   |  ✓  |  100 |
 | 23 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/7) | 刘舒畅 | 肖楚惟、何梦楠、邓珊、周姝奕 | [打开链接](https://github.com/liushuchang1) | ✓  |  ✓ |  ✓  | 100  |
 | 24[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/31) | 张家尧 | 阳凌杰、周丽、郭夏琪 | [打开链接](https://github.com/superheror)  |  ✓ |  ✓   | ✓| 100   |
 | 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   |  ✓|  100 |
 | 26[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/27) | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) | ✓ |   ✓ |   ✓  |   100|
-| 27[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/40) | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyOS-i)|  ✓ |   ✓ |   × |  93(成员未能全部public可见) |
+| 27[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/40) | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyOS-i)|  ✓ |   ✓ |   × |  93(成员均不可见) |
 | 28[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/24) | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/SoftwareGrp28)  |   ✓ |   ✓ |   ✓ | 100  |
 | 99 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1) | 老师测试组长 | 组员1 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026) | |   |   |   |
 

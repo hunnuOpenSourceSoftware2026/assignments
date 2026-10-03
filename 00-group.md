@@ -29,7 +29,7 @@
 | 6[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/28) | 杜勇毅 | 朱家豪、周家浩、刘子瑜 | [打开链接](https://github.com/astudytissue) |  ✓ |  ✓  |  ✓  | 100 |
 | 7 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/14) | 解欣玥 | 谌思雨、梁誉允、曹洁 | [打开链接](https://github.com/SAD-OpenLab/) |   ✓ |  ✓  | ✓ |  100 |
 | 8[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/41) | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/sys-analysis-design-team) |  ✓ |  ✓  |  ✓  | 100 |
-| 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  |  |
+| 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  | 90(没有指向组织URL； 成员未能全部public课件) |
 | 10[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/39) | 陈宇斌 | 曾志强、刘畅、陈励、杨斯惠 | [打开链接](https://github.com/aaa-course-project) |  ✓ | ✓   | ✓   | 100 |
 | 11[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/23) | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/Systemteam-alwayswin)  |  ✓ |✓  |✓  |  100 |
 | 12 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/8) | 杨欣华 | 于傲然、钟萱 | [打开链接](https://github.com/softh-dev/) |  ✓ |  ✓   |✓  | 100  |
@@ -47,7 +47,7 @@
 | 24[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/31) | 张家尧 | 阳凌杰、周丽、郭夏琪 | [打开链接](https://github.com/superheror)  |  ✓ |  ✓   | ✓| 100   |
 | 25 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/12) | 邓鑫 | 李晟熙、毛恩奇 | [打开链接](https://github.com/MangDui) | ✓ |  ✓   |  ✓|  100 |
 | 26[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/27) | 刘力阁 | 傅国瑞、罗伟城、李首冲、钟啸 | [打开链接](https://github.com/WeLikeVibeCoding) | ✓ |   ✓ |   ✓  |   100|
-| 27[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/40) | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyOS-i)|  ✓ |   ✓ |   × |   |
+| 27[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/40) | 马轩 | 陈然、郭鹏 | [打开链接](https://github.com/RoxyOS-i)|  ✓ |   ✓ |   × |  93(成员未能全部public可见) |
 | 28[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/24) | 赵禹翔 | 顾翎妤、郑亦婷 | [打开链接](https://github.com/SoftwareGrp28)  |   ✓ |   ✓ |   ✓ | 100  |
 | 99 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/1) | 老师测试组长 | 组员1 | [打开链接](https://github.com/hunnuOpenSourceSoftware2026) | |   |   |   |
 

@@ -28,7 +28,7 @@
 | 5[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/42) | 王晨 | 潘雷、卢攀、唐羽、杨博文 | [打开链接](https://github.com/applerere) | ✓ | ✓  | ✓  | 100 |
 | 6[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/28) | 杜勇毅 | 朱家豪、周家浩、刘子瑜 | [打开链接](https://github.com/astudytissue) |  ✓ |  ✓  |  ✓  | 100 |
 | 7 [issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/14) | 解欣玥 | 谌思雨、梁誉允、曹洁 | [打开链接](https://github.com/SAD-OpenLab/) |   ✓ |  ✓  | ✓ |  100 |
-| 8 | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/NXZZYUAN/sys-analysis-design.git) |  ✓ | ×  | ×  |  |
+| 8[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/41) | 袁晨昕 | 刘嘉、罗奕峰 | [打开链接](https://github.com/sys-analysis-design-team) |  ✓ |  ✓  |  ✓  | 100 |
 | 9 | 苏可 | 谭灿英、胡嘉豪 | [打开链接](https://github.com/tri-queens-code-lab/open-source-software-construction) | ✓ | ×  | ×  |  |
 | 10 | 陈宇斌 | 曾志强、刘畅、陈励、杨斯惠 | [打开链接](https://github.com/aaa-course-project/course-project) |  ✓ | ×  | ×  |  |
 | 11[issue](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues/23) | 魏美城 | 周恬恬、魏铃峂霏、王婧 | [打开链接](https://github.com/Systemteam-alwayswin)  |  ✓ |✓  |✓  |  100 |

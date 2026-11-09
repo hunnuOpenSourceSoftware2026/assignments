@@ -165,10 +165,10 @@ cat members/alice/README.md
 | 9 | [https://github.com/tri-queens-code-lab](https://github.com/tri-queens-code-lab) |[https://github.com/tri-queens-code-lab/group9-chapter3](https://github.com/tri-queens-code-lab/group9-chapter3) | 15 | 
 | 10 | [https://github.com/aaa-course-project](https://github.com/aaa-course-project) | 待登记 | — |
 | 11 | 待更正（现登记为个人账号） | 待登记 | — |
-| 12 | [https://github.com/softh-dev](https://github.com/softh-dev) | 待登记 | — |
+| 12 | [https://github.com/softh-dev](https://github.com/softh-dev) | [https://github.com/softh-dev/group-chapter3](https://github.com/softh-dev/group-chapter3) |15 |
 | 13 | [https://github.com/Wolf-F4](https://github.com/Wolf-F4) | 待登记 | — |
 | 14 | 待更正（现登记为个人账号） | 待登记 | — |
-| 15 | [https://github.com/fishplasma](https://github.com/fishplasma) | 待登记 | — |
+| 15 | [https://github.com/fishplasma](https://github.com/fishplasma) | [https://github.com/fishplasma/git-simple](https://github.com/fishplasma/git-simple) | 15|
 | 16 | [https://github.com/Learning-Rate-LR](https://github.com/Learning-Rate-LR) | 待登记 | — |
 | 17 | [https://github.com/System-Analysis-Homework](https://github.com/System-Analysis-Homework) | 待登记 | — |
 | 18 | [https://github.com/Team-Kawhi](https://github.com/Team-Kawhi) | 待登记 | — |
@@ -183,6 +183,8 @@ cat members/alice/README.md
 | 27 | 待更正（现登记为个人账号） | 待登记 | — |
 | 28 | [https://github.com/OpenSourceLearning2](https://github.com/OpenSourceLearning2) | 待登记 | — |
 | 99 | [https://github.com/OpenSourceLearning2](https://github.com/hunnuOpenSourceSoftware2026) | [https://github.com/hunnuOpenSourceSoftware2026/git-simple](https://github.com/hunnuOpenSourceSoftware2026/git-simple) | 15 |
+
+
 
 ### 第二层：个人提交与评分
 
@@ -202,9 +204,15 @@ cat members/alice/README.md
 | 苏可 | [sophiasu051119-glitch](https://github.com/sophiasu051119-glitch) | [PR #1](https://github.com/tri-queens-code-lab/group9-chapter3/pull/1) | 85 |
 | 胡嘉豪 | [HNNU-OD](https://github.com/HNNU-OD) | [首次 PR #2](https://github.com/tri-queens-code-lab/group9-chapter3/pull/2) / [修订 PR #4](https://github.com/tri-queens-code-lab/group9-chapter3/pull/4) | 85 |
 | 谭灿英 | [ttt587](https://github.com/ttt587) | [PR #3](https://github.com/tri-queens-code-lab/group9-chapter3/pull/3) | 85 |
-| 邓鑫 | [dx0110](https://github.com/dx0110) | [PR #2](https://github.com/MangDui/01-git-simple/pull/2) | 80：正文仍保留 `alice` |
+| 邓鑫 | [dx0110](https://github.com/dx0110) | [PR #2](https://github.com/MangDui/01-git-simple/pull/2) | 82：正文仍保留 `alice` |
 | 李晟熙 | [LSX-item](https://github.com/LSX-item) | [PR #4](https://github.com/MangDui/01-git-simple/pull/4) | 85 |
-| 毛恩奇 | [Mao123415](https://github.com/Mao123415) | [PR #3](https://github.com/MangDui/01-git-simple/pull/3) | 80: 正文仍保留 `alice` |
+| 毛恩奇 | [Mao123415](https://github.com/Mao123415) | [PR #3](https://github.com/MangDui/01-git-simple/pull/3) | 82: 正文仍保留 `alice` |
+| jinsilong | [Telemono](https://github.com/Telemono) | [PR #1](https://github.com/fishplasma/git-simple/pull/1) | 85 |
+| wangyuanqin | [yuan-0-meta](https://github.com/yuan-0-meta) | [PR #3](https://github.com/fishplasma/git-simple/pull/3) | 85 |
+| zouyanyi | [ZoriaYi](https://github.com/ZoriaYi) | [PR #2](https://github.com/fishplasma/git-simple/pull/2) | 85 |
+| 杨欣华 | [faw-k123](https://github.com/faw-k123) | [PR #8](https://github.com/softh-dev/group-chapter3/pull/8) | 85 |
+| 钟萱 | [zx-123470](https://github.com/zx-123470) | [PR #1](https://github.com/softh-dev/group-chapter3/pull/1) | 85 |
+| 于傲然 | [pupycyper](https://github.com/pupycyper) | [PR #5](https://github.com/softh-dev/group-chapter3/pull/5) | 85 |
 
 
 

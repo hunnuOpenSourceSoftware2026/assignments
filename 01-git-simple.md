@@ -162,7 +162,7 @@ cat members/alice/README.md
 | 6 | 待更正（现登记为个人账号） | 待登记 | — |
 | 7 | [https://github.com/SAD-OpenLab](https://github.com/SAD-OpenLab) | 待登记 | — |
 | 8 | 待更正（现登记为个人账号） | 待登记 | — |
-| 9 | [https://github.com/tri-queens-code-lab](https://github.com/tri-queens-code-lab) | 待登记 | — |
+| 9 | [https://github.com/tri-queens-code-lab](https://github.com/tri-queens-code-lab) |[https://github.com/tri-queens-code-lab/group9-chapter3](https://github.com/tri-queens-code-lab/group9-chapter3) | 15 | 
 | 10 | [https://github.com/aaa-course-project](https://github.com/aaa-course-project) | 待登记 | — |
 | 11 | 待更正（现登记为个人账号） | 待登记 | — |
 | 12 | [https://github.com/softh-dev](https://github.com/softh-dev) | 待登记 | — |
@@ -178,8 +178,8 @@ cat members/alice/README.md
 | 22 | 待更正（现登记为个人账号） | 待登记 | — |
 | 23 | [https://github.com/liushuchang1](https://github.com/liushuchang1) | 待登记 | — |
 | 24 | [https://github.com/superheror](https://github.com/superheror) | 待登记 | — |
-| 25 | [https://github.com/MangDui](https://github.com/MangDui) | 待登记 | — |
-| 26 | [https://github.com/WeLikeVibeCoding](https://github.com/WeLikeVibeCoding) | [Group 26](https://github.com/WeLikeVibeCoding/git-simple) | 10 |
+| 25 | [https://github.com/MangDui](https://github.com/MangDui) | [https://github.com/MangDui/01-git-simple](https://github.com/MangDui/01-git-simple) | 15 |
+| 26 | [https://github.com/WeLikeVibeCoding](https://github.com/WeLikeVibeCoding) | [https://github.com/WeLikeVibeCoding/git-simple](https://github.com/WeLikeVibeCoding/git-simple) | 15 |
 | 27 | 待更正（现登记为个人账号） | 待登记 | — |
 | 28 | [https://github.com/OpenSourceLearning2](https://github.com/OpenSourceLearning2) | 待登记 | — |
 | 99 | [https://github.com/OpenSourceLearning2](https://github.com/hunnuOpenSourceSoftware2026) | [https://github.com/hunnuOpenSourceSoftware2026/git-simple](https://github.com/hunnuOpenSourceSoftware2026/git-simple) | 15 |
@@ -199,6 +199,12 @@ cat members/alice/README.md
 | 罗伟城 | [xiangsi-max](https://github.com/xiangsi-max) | [PR #5](https://github.com/WeLikeVibeCoding/git-simple/pull/5) | 85 |
 | 李首冲 | [seteor-re](https://github.com/seteor-re) | [PR #3](https://github.com/WeLikeVibeCoding/git-simple/pull/3) | 85 |
 | 钟啸 | [CirnoNine9](https://github.com/CirnoNine9) | [PR #2](https://github.com/WeLikeVibeCoding/git-simple/pull/2) | 85 |
+| 苏可 | [sophiasu051119-glitch](https://github.com/sophiasu051119-glitch) | [PR #1](https://github.com/tri-queens-code-lab/group9-chapter3/pull/1) | 85 |
+| 胡嘉豪 | [HNNU-OD](https://github.com/HNNU-OD) | [首次 PR #2](https://github.com/tri-queens-code-lab/group9-chapter3/pull/2) / [修订 PR #4](https://github.com/tri-queens-code-lab/group9-chapter3/pull/4) | 85 |
+| 谭灿英 | [ttt587](https://github.com/ttt587) | [PR #3](https://github.com/tri-queens-code-lab/group9-chapter3/pull/3) | 85 |
+| 邓鑫 | [dx0110](https://github.com/dx0110) | [PR #2](https://github.com/MangDui/01-git-simple/pull/2) | 80：正文仍保留 `alice` |
+| 李晟熙 | [LSX-item](https://github.com/LSX-item) | [PR #4](https://github.com/MangDui/01-git-simple/pull/4) | 85 |
+| 毛恩奇 | [Mao123415](https://github.com/Mao123415) | [PR #3](https://github.com/MangDui/01-git-simple/pull/3) | 80: 正文仍保留 `alice` |
 
 
 

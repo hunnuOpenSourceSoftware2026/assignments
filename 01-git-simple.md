@@ -179,7 +179,7 @@ cat members/alice/README.md
 | 23 | [https://github.com/liushuchang1](https://github.com/liushuchang1) | 待登记 | — |
 | 24 | [https://github.com/superheror](https://github.com/superheror) | 待登记 | — |
 | 25 | [https://github.com/MangDui](https://github.com/MangDui) | 待登记 | — |
-| 26 | [https://github.com/WeLikeVibeCoding](https://github.com/WeLikeVibeCoding) | 待登记 | — |
+| 26 | [https://github.com/WeLikeVibeCoding](https://github.com/WeLikeVibeCoding) | [Group 26](https://github.com/WeLikeVibeCoding/git-simple) | 10 |
 | 27 | 待更正（现登记为个人账号） | 待登记 | — |
 | 28 | [https://github.com/OpenSourceLearning2](https://github.com/OpenSourceLearning2) | 待登记 | — |
 | 99 | [https://github.com/OpenSourceLearning2](https://github.com/hunnuOpenSourceSoftware2026) | [https://github.com/hunnuOpenSourceSoftware2026/git-simple](https://github.com/hunnuOpenSourceSoftware2026/git-simple) | 15 |
@@ -194,6 +194,12 @@ cat members/alice/README.md
 | --- | --- | --- | ---  | 
 | chenwuyang | [audio-visual](https://github.com/audio-visual) | [https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/1](https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/1) | 85 |
 | ruokuanwu| [ruokuanwu](https://github.com/ruokuanwu) |[https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/2](https://github.com/hunnuOpenSourceSoftware2026/git-simple/pull/2) | 55 |
+| 刘力阁 | [um-rs](https://github.com/um-rs) | [PR #1](https://github.com/WeLikeVibeCoding/git-simple/pull/1) | 85 |
+| 傅国瑞 | [fugory](https://github.com/fugory) | [PR #4](https://github.com/WeLikeVibeCoding/git-simple/pull/4) | 85 |
+| 罗伟城 | [xiangsi-max](https://github.com/xiangsi-max) | [PR #5](https://github.com/WeLikeVibeCoding/git-simple/pull/5) | 85 |
+| 李首冲 | [seteor-re](https://github.com/seteor-re) | [PR #3](https://github.com/WeLikeVibeCoding/git-simple/pull/3) | 85 |
+| 钟啸 | [CirnoNine9](https://github.com/CirnoNine9) | [PR #2](https://github.com/WeLikeVibeCoding/git-simple/pull/2) | 85 |
+
 
 
 

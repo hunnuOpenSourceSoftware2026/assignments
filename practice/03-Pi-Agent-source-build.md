@@ -13,7 +13,7 @@
 第一次实践课侧重安装和使用 Pi 客户端，本次侧重建立本地源码开发环境。完成后，应能够说明“源码在哪里、依赖装在哪里、构建执行了什么、正在运行哪个版本”。本次不要求构建独立 EXE，也不要求部署大模型权重。
 
 
-**仓库与版本：** 使用 [课程仓库 pi-hunnu-2026](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026)。
+**仓库与版本：** 使用第二次实践作业，各小组组织内fork的仓库地址。
 
 
 ## 任务一 实验准备：检查和安装开发工具
@@ -38,7 +38,7 @@ git --version
 | Git for Windows | 下载和管理源码，并提供 Git Bash | 安装后能执行 `git --version` |
 | 文本编辑器 | 查看和编辑源码 | 可使用 VS Code 或自己熟悉的编辑器 |
 
-Node.js 要求来自课程仓库 [package.json 的 engines 字段](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/package.json)，不是根据截图中的版本推测。项目根配置没有指定某个固定 npm 版本。
+Node.js 要求来自本小组组织内仓库 [package.json 的 engines 字段（教师组织内的仓库地址，仅作参考）](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/package.json)，不是根据截图中的版本推测。项目根配置没有指定某个固定 npm 版本。
 
 ![检查 Node.js 版本](assets/02-Pi-Agent-source-build/image-01-node-version.png)
 

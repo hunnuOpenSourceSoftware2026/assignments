@@ -3,23 +3,18 @@
 ## 本次完成的六项任务
 
 1. 检查并准备 Node.js、npm 和 Git，记录实际版本并截图。
-2. 下载课程仓库源码，确认仓库地址、分支和提交编号。
-3. 阅读项目配置，找到 Node.js 版本要求、工作区配置和构建命令的定义。
-4. 在仓库根目录安装依赖，说明安装命令的作用并截图。
-5. 完成本地编译，检查构建产物并验证其能够运行。
-6. 从本地源码启动 Pi，完成一次简单会话，并解释源码运行与编译产物运行的区别。
+2. 下载课程仓库源码。
+3. 在仓库根目录安装依赖，说明安装命令的作用并截图。
+4. 完成本地编译，检查构建产物并验证其能够运行，并截图。
+5. 记录下所遇到的困难，以及解决过程，描述并截图（重点）
 
-**选做：**修改一处命令行输出，分别通过源码运行和重新编译验证修改生效。
-
-**提交方式：**将实验报告和截图上传到个人 Git 仓库，在课程作业仓库按第一次实践课的方式提交 Issue，填写报告地址。Issue 名称：`实践课2：Pi Agent源码安装与编译 [姓名拼音]`。
+**提交方式：** 将实验报告和截图上传到个人 Git 仓库，在课程作业仓库按第一次实践课的方式提交 Issue，填写报告地址。Issue 名称：`实践课2：Pi Agent源码安装与编译 [姓名拼音]`。
 
 第一次实践课侧重安装和使用 Pi 客户端，本次侧重建立本地源码开发环境。完成后，应能够说明“源码在哪里、依赖装在哪里、构建执行了什么、正在运行哪个版本”。本次不要求构建独立 EXE，也不要求部署大模型权重。
 
-**适用环境：**以下主线使用 Windows PowerShell，建议在 Windows Terminal 中操作。所有路径以本人电脑为准。命令按顺序逐条执行，前一步失败时先处理错误，不要继续执行后面的步骤。
 
-**仓库与版本：**使用 [课程仓库 pi-hunnu-2026](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026)。2026-11-15 核对时，其远端分支为 `main`，提交编号为 `c3cc91632d0a1950fb122605b190233f2aa0006e`；此前资料中的 `course-main` 已无法读取。本文按当前 `main` 编写，学生须记录自己实际使用的提交编号。若教师另行指定了实验版本，以教师要求为准。
+**仓库与版本：**使用 [课程仓库 pi-hunnu-2026](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026)。
 
-**示例图片说明：**本文使用教师提供的 5 张实操截图。前三张记录旧工作目录中 `course-main` 下的环境检查与升级，后两张记录 `main` 下的安装与构建过程。截图中的个人路径、包数量、版本和耗时仅为示例，学生须提交自己的实际操作结果。不要把跨分支截图当成相同代码版本的前后对照。
 
 ## 任务一 实验准备：检查和安装开发工具
 
@@ -34,6 +29,7 @@ git --version
 ```
 
 三条命令分别检查 Node.js、npm 和 Git。第一次实践中 `pi` 能运行，不代表当前终端一定能找到这三个工具。
+**截图要求 S1：**显示当前环境依赖的各个版本。
 
 | 工具 | 本次用途 | 要求或建议 |
 |---|---|---|
@@ -48,7 +44,7 @@ Node.js 要求来自课程仓库 [package.json 的 engines 字段](https://githu
 
 *图1 教师检查原有环境，Node.js 为 v22.23.2。*
 
-根项目的最低版本不代表每个工作区依赖都只要求同一个版本。图2中，旧分支安装时的 `@earendil-works/gondolin@0.12.0` 声明需要 Node.js `>=23.6.0`，因此 Node.js 22.23.2 虽满足根项目声明，仍触发了依赖的 `EBADENGINE` 警告。**为便于本次实验统一环境，建议使用 Node.js 24 LTS。** 这是结合实操截图给出的课程建议，不是把根项目声明改成了 `>=24`。
+根项目的最低版本不代表每个工作区依赖都只要求同一个版本。图2中，旧分支安装时的 `@earendil-works/gondolin@0.12.0` 声明需要 Node.js `>=23.6.0`，因此 Node.js 22.23.2 虽满足根项目声明，仍触发了依赖的 `EBADENGINE` 警告。**为便于本次实验统一环境，建议使用 Node.js 24 LTS。** 这是结合实操截图给出的课程建议，不是把根项目声明改成了 `>=24`。 已安装了node但是版本不对的，可参考“已使用 fnm 的同学：切换到 Node.js 24” 小节进行版本更新。
 
 ![旧环境安装时的版本与依赖警告](assets/02-Pi-Agent-source-build/image-02-install-warning.png)
 
@@ -103,26 +99,14 @@ fnm env --use-on-cd --shell powershell | Out-String | Invoke-Expression
 
 *图3 教师通过 fnm 切换到 Node.js v24.22.3，并确认 npm 为 11.19.1；实际补丁版本可能不同。*
 
-### 3. 未安装 Git 时：安装 Git for Windows
-
-1. 打开 [Git for Windows 官方下载入口](https://git-scm.com/download/win)。
-2. 下载适合电脑架构的安装程序并安装。
-3. 安装时保留允许从命令行和第三方软件使用 Git 的 PATH 选项。
-4. 安装完成后重新打开 PowerShell，执行 `git --version`。
-
-Pi 在原生 Windows 上默认使用 Git Bash 执行 Bash 命令，Git for Windows 可提供该环境。**安装 Git Bash 不等于必须在 Git Bash 窗口里完成本实验**，下文仍使用 PowerShell。依据：[课程仓库 Windows 指南](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/packages/coding-agent/docs/windows.md)。
-
-**截图要求 S1：**显示 `node --version`、`npm --version` 和 `git --version` 的实际输出。报告说明是否已满足 Node.js 要求；只提交安装器完成页面不能代替版本验证。
 
 ## 任务二 下载课程仓库源码
 
 ### 1. 建立实验目录并下载源码
 
-以下示例在当前用户目录中建立 `pi-labs` 文件夹，也可以自行选择其他目录：
+尽量在全英路径下下载项目
 
 ```powershell
-New-Item -ItemType Directory -Force "$env:USERPROFILE\pi-labs" | Out-Null
-Set-Location "$env:USERPROFILE\pi-labs"
 git clone --branch main https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026.git
 cd pi-hunnu-2026
 ```
@@ -165,7 +149,7 @@ git status --short
 
 再找到 `scripts.build`。其中的命令会依次进入多个子包并执行各包自己的 `npm run build`；`&&` 表示前一步成功后才继续下一步。`npm run build` 的具体工作由项目配置决定，不是 npm 对所有项目都执行同一套编译过程。
 
-本仓库使用 npm workspaces 管理多个包。请从根目录安装依赖，按根目录脚本顺序构建，不要自行给每个子包分别创建新的依赖锁定文件。依据：[根 package.json](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/package.json)。
+该仓库使用 npm workspaces 管理多个包。需从根目录安装依赖，按根目录脚本顺序构建，不要自行给每个子包分别创建新的依赖锁定文件。依据：[根 package.json](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/package.json)。
 
 **截图要求 S3：**显示 `engines.node` 和 `scripts.build` 的定义，可分为两张图。报告用自己的话回答：Node.js 版本要求在哪里？`npm run build` 实际从哪里读取命令？
 
@@ -179,13 +163,6 @@ git status --short
 npm install --ignore-scripts
 ```
 
-命令结束、终端提示符重新出现后，立即检查退出码：
-
-```powershell
-$LASTEXITCODE
-```
-
-预期为 `0`。如果不是 `0`，记录错误并处理后重试。
 
 该命令主要完成以下工作：
 
@@ -196,18 +173,11 @@ $LASTEXITCODE
 
 这里没有 `-g`，安装的是当前项目的依赖。它不会把本地修改后的 Pi 自动安装成全局 `pi` 命令。命令来源见 [Development](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026#development)，参数含义见 [npm install 文档](https://docs.npmjs.com/cli/v11/commands/npm-install/#ignore-scripts)。
 
-### 2. 检查安装结果
 
-```powershell
-Test-Path .\node_modules
-git status --short
-```
 
-第一条应输出 `True`。若锁文件出现改动，应记录并核对原因，不要为了让安装通过而随意删除锁文件、升级所有依赖或执行 `npm audit fix --force`。
+**截图要求 S4：**显示安装结束的输出结果，应区分警告与导致命令失败的错误
 
-**截图要求 S4：**显示安装结束的输出、退出码 `0` 和依赖目录检查结果。警告需要阅读，但应区分警告与导致命令失败的错误；不要只凭出现 `node_modules` 文件夹就判断安装成功。
-
-### 3. 结合示例理解安装警告
+### 2. 结合示例理解安装警告
 
 - `EBADENGINE`：当前 Node.js 不满足某个包声明的版本要求。图中应关注 `required` 与 `current` 的差异，按任务一切换到合适版本后重新安装。
 - `deprecated`：依赖包已弃用或不再维护的提示，不等同于安装命令必然失败。
@@ -229,13 +199,6 @@ git status --short
 npm run build
 ```
 
-命令结束后立即检查：
-
-```powershell
-$LASTEXITCODE
-```
-
-预期为 `0`。构建过程中会依次处理多个子包，其中包括生成模型目录数据、编译 TypeScript、复制运行资源以及打包 CLI。
 
 首次构建需要联网获取模型目录数据。这里的“模型数据”指模型目录、能力等配置数据，**不是下载大模型权重**。本地客户端构建与模型推理服务是两件事。依据：[README](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026#development)、[AI 包脚本](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/packages/ai/package.json)。
 

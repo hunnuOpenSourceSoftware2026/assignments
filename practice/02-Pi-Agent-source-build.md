@@ -3,7 +3,7 @@
 ## 本次完成的六项任务
 
 1. 检查并准备 Node.js、npm 和 Git，记录实际版本并截图。
-2. 下载课程仓库源码。
+2. 下载课程仓库源码，并截图。
 3. 在仓库根目录安装依赖，说明安装命令的作用并截图。
 4. 完成本地编译，检查构建产物并验证其能够运行，并截图。
 5. 记录下所遇到的困难，以及解决过程，描述并截图（重点）
@@ -13,7 +13,7 @@
 第一次实践课侧重安装和使用 Pi 客户端，本次侧重建立本地源码开发环境。完成后，应能够说明“源码在哪里、依赖装在哪里、构建执行了什么、正在运行哪个版本”。本次不要求构建独立 EXE，也不要求部署大模型权重。
 
 
-**仓库与版本：**使用 [课程仓库 pi-hunnu-2026](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026)。
+**仓库与版本：** 使用 [课程仓库 pi-hunnu-2026](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026)。
 
 
 ## 任务一 实验准备：检查和安装开发工具
@@ -29,7 +29,7 @@ git --version
 ```
 
 三条命令分别检查 Node.js、npm 和 Git。第一次实践中 `pi` 能运行，不代表当前终端一定能找到这三个工具。
-**截图要求 S1：**显示当前环境依赖的各个版本。
+**截图要求 S1：** 显示当前环境依赖的各个版本。
 
 | 工具 | 本次用途 | 要求或建议 |
 |---|---|---|
@@ -125,7 +125,7 @@ git status --short
 
 检查 `origin` 是否指向课程仓库，当前分支是否为 `main`，并把完整提交编号记录到报告中。后续所有安装和构建命令，除特别说明外，都在这个仓库根目录执行。
 
-**截图要求 S2：**显示当前目录、远端地址、分支和提交编号。仅打开 GitHub 网页不能证明源码已下载到本地。
+**截图要求 S2：** 显示当前目录、远端地址、分支和提交编号。仅打开 GitHub 网页不能证明源码已下载到本地。
 
 ## 任务三 阅读配置，确认安装与编译的依据
 
@@ -151,7 +151,7 @@ git status --short
 
 该仓库使用 npm workspaces 管理多个包。需从根目录安装依赖，按根目录脚本顺序构建，不要自行给每个子包分别创建新的依赖锁定文件。依据：[根 package.json](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/package.json)。
 
-**截图要求 S3：**显示 `engines.node` 和 `scripts.build` 的定义，可分为两张图。报告用自己的话回答：Node.js 版本要求在哪里？`npm run build` 实际从哪里读取命令？
+**截图要求 S3：** 显示 `engines.node` 和 `scripts.build` 的定义，可分为两张图。报告用自己的话回答：Node.js 版本要求在哪里？`npm run build` 实际从哪里读取命令？
 
 ## 任务四 安装项目依赖
 
@@ -175,7 +175,7 @@ npm install --ignore-scripts
 
 
 
-**截图要求 S4：**显示安装结束的输出结果，应区分警告与导致命令失败的错误
+**截图要求 S4：** 显示安装结束的输出结果，应区分警告与导致命令失败的错误
 
 ### 2. 结合示例理解安装警告
 
@@ -219,7 +219,7 @@ node .\packages\coding-agent\dist\bundle\cli.js --version
 
 `dist` 保存构建产物。以后修改程序时应修改 `src` 下的源码，再重新构建；直接修改 `dist` 中的文件，可能在下次构建时被覆盖。
 
-**截图要求 S5：**显示完整构建结束的最后一段输出、退出码 `0`、入口文件存在，以及通过上述本地路径运行得到的版本号。某一个子包成功，不能代表根构建全部成功；只有版本号也不能证明已经完成本次构建。
+**截图要求 S5：** 显示完整构建结束的最后一段输出、退出码 `0`、入口文件存在，以及通过上述本地路径运行得到的版本号。某一个子包成功，不能代表根构建全部成功；只有版本号也不能证明已经完成本次构建。
 
 ### 3. 后续重新构建
 
@@ -231,14 +231,6 @@ npm run build:offline
 
 它仍会重新编译相关包，但复用已有模型目录数据。不要把它当成首次安装或首次数据初始化的替代命令；若提示数据缺失或过期，按错误提示补齐数据，或恢复网络后重新执行 `npm run build`。
 
-### 4. 与独立程序打包的区别
-
-| 流程 | 主要目的 | 产物与运行方式 |
-|---|---|---|
-| 本次使用的 `Development` | 本地修改、编译、调试 | 通过 Node.js 运行源码入口或 JavaScript 构建产物 |
-| `Building standalone binaries from release source` | 制作可分发的独立程序 | 从发布源码包构建平台对应的可执行程序及配套资源 |
-
-独立程序构建还涉及 Bun 等工具。README 示例中的 `--platform linux-x64` 是 Linux 目标，不能直接当作 Windows 实验命令。**本次基础任务完成 Development 流程即可。** 依据：[README 独立构建说明](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026#building-standalone-binaries-from-release-source)。
 
 ## 任务六 启动本地源码版本并完成一次会话
 
@@ -260,7 +252,7 @@ npm run build:offline
 
 本次使用上述命令验证本地源码。直接输入 `pi`，可能启动第一次实践课安装的全局版本，无法单独证明运行的是刚下载的源码。
 
-如果原有模型配置仍可用，可以继续使用；若未配置或无法会话，参考 [第一次实践指导](https://github.com/hunnuOpenSourceSoftware2026/assignments/blob/main/practice/01-Pi-Agent-start.md)，在 Pi 中执行 `/login` 配置模型服务。
+本地源码版默认与已安装的 Pi 共用当前用户的配置目录 `~/.pi/agent`。因此，第一次实践课已完成登录且凭据仍有效的同学，运行 `.\pi-test.bat` 后通常无需再次 `/login`。这表示复用了用户配置，并不表示运行的是全局安装版本。只有未配置模型、凭据失效或需要更换账户时，才需重新配置。
 
 发送一个简单问题，例如：
 
@@ -276,125 +268,6 @@ npm run build:offline
 node .\packages\coding-agent\dist\bundle\cli.js
 ```
 
-**截图要求 S6：**显示 `.\pi-test.bat` 的启动命令或相关终端上下文、Pi 界面、自己的提示词和实际模型回复。可分为两张截图。不要提交 API Key、`auth.json` 或授权回调地址。
+**截图要求 S6：** 显示 `.\pi-test.bat` 的启动命令或相关终端上下文、Pi 界面、自己的提示词和实际模型回复。可分为多张截图。不要提交 API Key、`auth.json` 或授权回调地址。
 
 报告说明：本次如何确保运行的是本地源码？源码入口与 `dist/bundle/cli.js` 入口分别适合什么场景？
-
-## 选做：修改一处输出并重新验证
-
-本练习只用于观察“修改源码 → 运行源码 → 重新构建 → 运行产物”的过程，不要求实现新业务功能。先完成基础任务，再进行修改。
-
-### 1. 建立实验分支并修改入口
-
-```powershell
-git switch -c practice-02-output
-```
-
-用编辑器打开 `packages/coding-agent/src/cli.ts`。在 `setupCli();` 之后、`main(process.argv.slice(2));` 之前加入：
-
-```typescript
-if (process.argv.includes("--version")) {
-	console.error("[practice-02] local source build");
-}
-```
-
-保留原有导入和其他代码。这个临时标记只在带 `--version` 参数时打印，便于观察自己的改动。入口依据：[cli.ts](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/packages/coding-agent/src/cli.ts)。
-
-### 2. 运行源码，观察标记
-
-```powershell
-git diff -- packages/coding-agent/src/cli.ts
-.\pi-test.bat --version
-```
-
-预期看到新增标记和版本号。普通 TypeScript 源码改动可通过重新启动源码入口加载；这不是自动热更新。
-
-### 3. 比较重建前后的编译产物
-
-先运行之前构建的产物：
-
-```powershell
-node .\packages\coding-agent\dist\bundle\cli.js --version
-```
-
-若修改后尚未重新构建，旧产物应仍未包含新增标记。随后执行：
-
-```powershell
-npm run build:offline
-```
-
-确认退出码为 `0` 后再运行：
-
-```powershell
-node .\packages\coding-agent\dist\bundle\cli.js --version
-```
-
-重新构建后，产物应显示同样的标记。记录前后差异，解释为什么修改源码不会自动改变已经生成的文件。构建脚本确实以编译后的 CLI 为打包入口，见 [build-coding-agent-bundle.mjs](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/scripts/build-coding-agent-bundle.mjs)。
-
-**选做截图 S7：**源码差异、源码运行结果，以及编译产物重建前后的结果。完成后可手动移除本次新增的标记代码，并重新构建；不要使用会覆盖其他修改的整仓恢复命令。
-
-## 常见问题与排查
-
-| 现象 | 检查与处理 |
-|---|---|
-| 找不到 `node`、`npm` 或 `git` | 重新打开终端；检查安装时的 PATH 选项。安装成功与当前终端能找到命令是两个步骤。 |
-| PowerShell 提示 `npm.ps1` 被禁止运行 | 改用 `npm.cmd --version`、`npm.cmd install --ignore-scripts`、`npm.cmd run build`。 |
-| 出现 `EBADENGINE` | 查看具体包的 `required` 与 `current`；根项目最低版本不覆盖全部依赖要求，本次建议切换 Node.js 24 LTS 后重新安装。 |
-| 提示找不到 `package.json` | 执行 `Get-Location`，确认处于 `pi-hunnu-2026` 仓库根目录。 |
-| 克隆时报目标目录已存在 | 先检查已有目录，或选择新的空目录，不要直接覆盖个人文件。 |
-| 提示找不到 `course-main` | 本文核对时课程仓库使用 `main`；不要照抄旧资料中的分支名称。 |
-| 安装或模型目录生成时网络失败 | 保留失败地址和错误信息，检查能否访问对应服务，网络恢复后重试。 |
-| 提示模型目录数据缺失或过期 | 在仓库根目录执行 `npm run hydrate:model-data`，成功后再运行 `npm run build:offline`；以实际错误提示为准。 |
-| 编译失败但仍有 `dist` 文件 | 这些可能是部分或旧产物，不能据此宣布成功；查看第一个实际报错的包和命令。 |
-| 改了源码但运行结果没变 | 确认没有启动全局 `pi`；若运行 `dist` 产物，确认修改后已重新构建。 |
-| Pi 能打开但模型无法回复 | 检查登录、模型选择、额度与网络；分别记录启动结果和模型调用结果。 |
-
-遇到问题时，在报告中记录“执行目录、命令、错误、处理方法、重试结果”。可以请 AI 协助解释错误，但应核对命令来源并实际执行验证，不能用 AI 的文字判断替代运行结果。
-
-`npm run check` 和 `./test.sh` 是 README 中另外列出的检查、测试入口，不是本次基础安装编译步骤必须全部顺序执行的命令。其中 `npm run check` 包含自动格式修正，执行后可能改变文件；若自行尝试，应检查 `git diff` 并记录结果。
-
-## 实验报告与提交要求
-
-建议在个人作业仓库中使用以下结构：
-
-```text
-practice/
-  02-Pi-Agent-source-build.md
-  assets/
-    02-Pi-Agent-source-build/
-      S1-environment.png
-      S2-repository.png
-      S3-config.png
-      S4-install.png
-      S5-build.png
-      S6-run.png
-      S7-change.png          # 选做
-```
-
-报告中的图片使用相对路径引用，例如：
-
-```markdown
-![S1 环境版本](assets/02-Pi-Agent-source-build/S1-environment.png)
-```
-
-报告应包含：
-
-1. **基本信息：**姓名、学号、实验日期、操作系统、Node.js/npm/Git 版本。
-2. **源码信息：**课程仓库地址、本地目录、分支、完整提交编号。
-3. **操作过程：**六项任务的命令、实际结果和 S1—S6 截图；未完成部分如实说明。
-4. **理解说明：**两个 npm 命令的区别、Node.js 版本依据、源码与产物运行的区别、Development 与独立程序构建的区别。
-5. **问题记录：**遇到的问题、定位过程和处理结果；未遇到问题可注明。
-6. **选做记录：**如已完成，提供代码差异和 S7，并说明修改是否保留。
-
-提交报告和必要截图即可，不要将 `node_modules`、完整 `dist`、登录凭据或整个源码副本塞进作业报告目录。若另行提交源码修改，可提供个人代码仓库的提交链接或在报告中展示差异。
-
-打开个人 Git 仓库中的报告，确认图片能正常显示，再提交作业地址。Issue 正文可写姓名、学号、报告链接、基础任务完成情况和选做情况。不要只提交个人仓库首页，应提供可直接打开的报告页面链接。
-
-## 参考与核查范围
-
-- [第一次实践课指导](https://github.com/hunnuOpenSourceSoftware2026/assignments/blob/main/practice/01-Pi-Agent-start.md)：本次任务组织、截图与提交形式的参考。
-- [本次核对的课程源码快照](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/tree/c3cc91632d0a1950fb122605b190233f2aa0006e)：用于对照编写时的配置和脚本。
-- [课程 README](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/README.md)、[根 package.json](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/package.json)：开发流程和版本要求。
-- [Windows 配置](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/packages/coding-agent/docs/windows.md)：Windows 命令环境说明。
-
-本文根据上述文档、配置、脚本和教师提供的截图编写。截图展示了环境检查、升级、依赖安装与部分构建日志；尚未提供完整构建结束及运行验证截图。验收以学生实际运行结果为准，教师示例不等同于个人实验结果。

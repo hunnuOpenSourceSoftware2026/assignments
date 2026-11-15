@@ -11,7 +11,7 @@
 3. 确认仓库属于小组组织，并将仓库地址发给所有成员。
 4. 确认组员已加入小组组织，并具有后续开发所需的仓库访问权限。
 
-![Fork 页面中的来源仓库与 Owner 选择](assets/02-Pi-Agent-assignment/fork-to-organization.png)
+![Fork 页面中的来源仓库与 Owner 选择](assets/02-Pi-Agent-source-build/fork-to-organization.png)
 
 **注意：截图是操作位置示意，不是创建成功的结果。** 图中的 Owner 仍是教师组织 `hunnuOpenSourceSoftware2026`，因此出现了同名仓库已存在的提示。学生应改选自己的小组组织，不要照抄截图中的 Owner，也不要将团队仓库放在组长个人账号下。若小组已经完成 fork，核对现有仓库后直接使用即可。
 

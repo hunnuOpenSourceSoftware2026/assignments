@@ -3,7 +3,7 @@
 ## 本次完成的六项任务
 
 1. 检查并准备 Node.js、npm 和 Git，记录实际版本并截图。
-2. 下载课程仓库源码，并截图。
+2. （这儿实际上是第二次作业就做了的）下载课程仓库源码，并截图。
 3. 在仓库根目录安装依赖，说明安装命令的作用并截图。
 4. 完成本地编译，检查构建产物并验证其能够运行，并截图。
 5. 记录下所遇到的困难，以及解决过程，描述并截图（重点）
@@ -100,14 +100,14 @@ fnm env --use-on-cd --shell powershell | Out-String | Invoke-Expression
 *图3 教师通过 fnm 切换到 Node.js v24.22.3，并确认 npm 为 11.19.1；实际补丁版本可能不同。*
 
 
-## 任务二 下载课程仓库源码
+## 任务二 下载课程仓库源码（上次实践已做的可略过，为了教学过程完整，此步骤保留）
 
 ### 1. 建立实验目录并下载源码
 
 尽量在全英路径下下载项目
 
 ```powershell
-git clone --branch main https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026.git
+git clone --branch main https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026.git #替换成自己小组组织内的仓库
 cd pi-hunnu-2026
 ```
 

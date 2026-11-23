@@ -15,7 +15,9 @@ console.error("[P4] Agent 即将请求模型"); // 新增
 const response = await streamFunction(config.model, llmContext, {
 ```
 
-每次执行到这里，Agent 都准备把当前上下文交给模型调用函数。[教师版源码](https://github.com/hunnuOpenSourceSoftware2026/pi-hunnu-2026/blob/main/packages/agent/src/agent-loop.ts#L412)
+每次执行到这里，Agent 都准备把当前上下文交给模型调用函数。
+
+![截图1](assets/04-Pi-Agent-runtime-trace/image-02.png)
 
 ### 2. 在工具结果加入上下文后打印日志
 
@@ -29,7 +31,7 @@ for (const result of toolResults) {
 }
 ```
 
-
+![截图2](assets/04-Pi-Agent-runtime-trace/image-01.png)
 
 ## 任务二：重新编译并启动
 
@@ -39,6 +41,8 @@ for (const result of toolResults) {
 npm run build
 ```
 
+![截图3](assets/04-Pi-Agent-runtime-trace/image-03.png)
+
 等构建结束且成功返回后，直接启动编译产物：
 
 ```powershell
@@ -46,6 +50,7 @@ node .\packages\coding-agent\dist\cli.js
 ```
 
 两行 `[P4]` 日志会写到终端，可能和 Pi 的交互界面混在一起。运行时留意终端输出，记录出现的顺序。
+![截图4](assets/04-Pi-Agent-runtime-trace/image-04.png)
 
 
 ## 任务三：对比两次运行

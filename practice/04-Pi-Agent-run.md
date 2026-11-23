@@ -48,10 +48,11 @@ npm run build
 ```powershell
 node .\packages\coding-agent\dist\cli.js
 ```
-
-两行 `[P4]` 日志会写到终端，可能和 Pi 的交互界面混在一起。运行时留意终端输出，记录出现的顺序。
 ![截图4](assets/04-Pi-Agent-runtime-trace/image-04.png)
 
+两行 `[P4]` 日志会写到终端，可能和 Pi 的交互界面混在一起。运行时留意终端输出，记录出现的顺序。
+
+![截图4](assets/04-Pi-Agent-runtime-trace/image-05.png)
 
 ## 任务三：对比两次运行
 

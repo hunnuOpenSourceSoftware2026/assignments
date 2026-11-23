@@ -19,6 +19,8 @@ const response = await streamFunction(config.model, llmContext, {
 
 ![截图1](assets/04-Pi-Agent-runtime-trace/image-02.png)
 
+**截图要求 S1：**  显示编辑器中的 agent-loop.ts 文件名、行号，以及新增的 [P4] Agent 即将请求模型 日志。画面中应同时看到日志下方的 await streamFunction(...)。
+
 ### 2. 在工具结果加入上下文后打印日志
 
 找到原第 284 行的 `currentContext.messages.push(result);`，在它**下方**插入一行。日志写在 `for` 循环内，每写入一条工具结果就打印一次。
@@ -33,6 +35,8 @@ for (const result of toolResults) {
 
 ![截图2](assets/04-Pi-Agent-runtime-trace/image-01.png)
 
+**截图要求 S2：**  显示 agent-loop.ts 中的 for 循环、`currentContext.messages.push(result)` 和紧接着新增的 [P4] 工具结果已加入上下文 日志。
+
 ## 任务二：重新编译并启动
 
 保存源码。在有根目录 `package.json` 的项目目录中执行：
@@ -42,6 +46,8 @@ npm run build
 ```
 
 ![截图3](assets/04-Pi-Agent-runtime-trace/image-03.png)
+
+**截图要求 S3：**  显示项目根目录中的 npm run build 命令、构建结束后返回命令提示符，以及紧接着运行 $LASTEXITCODE 得到的 0。输出过长时可分两张截图，分别标为 S3a 和 S3b。
 
 等构建结束且成功返回后，直接启动编译产物：
 
@@ -53,6 +59,8 @@ node .\packages\coding-agent\dist\cli.js
 两行 `[P4]` 日志会写到终端，可能和 Pi 的交互界面混在一起。运行时留意终端输出，记录出现的顺序。
 
 ![截图4](assets/04-Pi-Agent-runtime-trace/image-05.png)
+
+**截图要求 S4：**  显示执行 node .\packages\coding-agent\dist\cli.js 的命令和成功打开的 Pi 交互界面。
 
 ## 任务三：对比两次运行
 
@@ -72,6 +80,10 @@ node .\packages\coding-agent\dist\cli.js
 ```
 
 实际次数按自己的运行记录填写。截图里的“工具结果已加入上下文”和紧接着的“Agent 即将请求模型”，展示了循环的后半段。第一类日志记录 Agent 到达一轮模型调用的位置，第二类日志记录一条工具结果写入上下文。
+
+**截图要求 S5：**  显示会话 A 的输入指令、Pi 最终回复和实际出现的 [P4] 日志。结合日志记录是否调用了工具，以及进入了几轮模型调用。
+
+**截图要求 S6：**  显示会话 B 的输入指令、`read` 工具读取 practice4.txt 的记录、Pi 返回的实验代号，以及实际出现的两类 [P4] 日志。终端一屏放不下时，可按发生顺序提交 S6a、S6b 等截图，并在报告中按顺序抄录日志。
 
 ## 作业提交
 

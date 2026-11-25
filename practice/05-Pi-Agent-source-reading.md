@@ -39,6 +39,6 @@ A 阶段已经让 Pi 读到了启动命令。现在退出 Pi，再启动它，�
 
 ## 作业提交
 
-在小组 Pi 代码仓库提交一份 `practive-05.md`。报告须包含以下图1，图2，可进一步增加解释/文字说明。
+在个人作业仓库提交一份 `practive-05.md`。报告须包含以下图1，图2，可进一步增加解释/文字说明。
 
 由个人在[课程作业仓库](https://github.com/hunnuOpenSourceSoftware2026/assignments/issues)提交一条 Issue，标题用 `实践课5：Pi Agent工具调用与会话恢复 [姓名拼音]`，正文附作业链接。
